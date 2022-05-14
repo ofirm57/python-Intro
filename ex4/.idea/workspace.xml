@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65b4f0b6-7bf0-4c88-b936-b2bf17f43c08" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bJrpsGsGRfMSwLLgBHuiTfRz32" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ex4 try/hangman.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.sss">
+    <configuration name="hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsttssss" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tsttssss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test.py (1)" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/טסטים" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/טסטים/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="ex4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sss" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.hangman" />
+        <item itemvalue="Python tests.pytest in test.py (1)" />
+        <item itemvalue="Python.tsttssss" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65b4f0b6-7bf0-4c88-b936-b2bf17f43c08" name="Default Changelist" comment="" />
+      <created>1588361224075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588361224075</updated>
+      <workItem from="1588361227642" duration="6332000" />
+      <workItem from="1588368017402" duration="9206000" />
+      <workItem from="1588498395174" duration="60161000" />
+      <workItem from="1588670640150" duration="25733000" />
+      <workItem from="1588698627186" duration="7762000" />
+      <workItem from="1588708249710" duration="985000" />
+      <workItem from="1588709277494" duration="11601000" />
+      <workItem from="1588721205393" duration="3000" />
+      <workItem from="1588721241038" duration="240000" />
+      <workItem from="1588721912047" duration="588000" />
+      <workItem from="1588722605833" duration="643000" />
+      <workItem from="1588723266771" duration="35000" />
+      <workItem from="1588723473528" duration="238000" />
+      <workItem from="1588723836568" duration="14000" />
+      <workItem from="1588723960518" duration="1544000" />
+      <workItem from="1588748014439" duration="493000" />
+      <workItem from="1588748908106" duration="1010000" />
+      <workItem from="1588750112241" duration="446000" />
+      <workItem from="1588750739722" duration="1042000" />
+      <workItem from="1588752011458" duration="31000" />
+      <workItem from="1588752053385" duration="20000" />
+      <workItem from="1588752107016" duration="6034000" />
+      <workItem from="1588758172883" duration="166000" />
+      <workItem from="1588758360264" duration="18000" />
+      <workItem from="1588758397346" duration="890000" />
+      <workItem from="1588759326839" duration="707000" />
+      <workItem from="1588760140665" duration="2351000" />
+      <workItem from="1588762511726" duration="83000" />
+      <workItem from="1588762611468" duration="32000" />
+      <workItem from="1588762686296" duration="85000" />
+      <workItem from="1588762837475" duration="758000" />
+      <workItem from="1588763909253" duration="35000" />
+      <workItem from="1588763965991" duration="1419000" />
+      <workItem from="1588766389653" duration="3745000" />
+      <workItem from="1588770155135" duration="10000" />
+      <workItem from="1588770879678" duration="14000" />
+      <workItem from="1588770914169" duration="12000" />
+      <workItem from="1588770935391" duration="9000" />
+      <workItem from="1588857816824" duration="4308000" />
+      <workItem from="1588868069726" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="2120" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Inspections" timestamp="1588712185498">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1588712185498" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588364775543">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588364775543" />
+    <state x="361" y="0" key="#pytest_for_sss.test_sum_1" timestamp="1588867297171">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#pytest_for_sss.test_sum_1/0.0.1280.680@0.0.1280.680" timestamp="1588867297171" />
+    <state x="361" y="0" key="#pytest_for_sss.test_sum_of_vectors1" timestamp="1588867467341">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#pytest_for_sss.test_sum_of_vectors1/0.0.1280.680@0.0.1280.680" timestamp="1588867467341" />
+    <state x="361" y="0" key="#pytest_in_test.py" timestamp="1588752906286">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="361" y="0" key="#pytest_in_test.py/0.0.1280.680@0.0.1280.680" timestamp="1588752906286" />
+    <state x="396" y="43" key="#xdebugger.evaluate" timestamp="1588865845302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="396" y="43" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1588865845302" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1588762984451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588762984451" />
+    <state width="598" height="9" key="GridCell.Tab.0.bottom" timestamp="1588868026382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="598" height="9" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588868026382" />
+    <state width="598" height="9" key="GridCell.Tab.0.center" timestamp="1588868026382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="598" height="9" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588868026382" />
+    <state width="598" height="9" key="GridCell.Tab.0.left" timestamp="1588868026382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="598" height="9" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588868026382" />
+    <state width="598" height="9" key="GridCell.Tab.0.right" timestamp="1588868026382">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="598" height="9" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588868026382" />
+    <state width="1237" height="98" key="GridCell.Tab.1.bottom" timestamp="1588868026376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="98" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588868026376" />
+    <state width="1237" height="98" key="GridCell.Tab.1.center" timestamp="1588868026376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="98" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588868026376" />
+    <state width="1237" height="98" key="GridCell.Tab.1.left" timestamp="1588868026376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="98" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588868026376" />
+    <state width="1237" height="98" key="GridCell.Tab.1.right" timestamp="1588868026376">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="98" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588868026376" />
+    <state x="366" y="0" width="914" height="680" key="SettingsEditor" timestamp="1588867971320">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="366" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588867971320" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1588868069370">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588868069370" />
+    <state x="196" y="76" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588749264522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="196" y="76" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1588749264522" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1588685280777">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1588685280777" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hangman_helper.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ex4$hangman_helper.coverage" NAME="hangman_helper Coverage Results" MODIFIED="1588600239526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex4$pytest_in_test_py__1_.coverage" NAME="pytest in test.py (1) Coverage Results" MODIFIED="1588762624181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/טסטים" />
+    <SUITE FILE_PATH="coverage/ex4$hangman.coverage" NAME="hangman Coverage Results" MODIFIED="1588769028462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex4$tsttssss.coverage" NAME="tsttssss Coverage Results" MODIFIED="1588683928065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex4$test.coverage" NAME="test Coverage Results" MODIFIED="1588865331356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex4$sss.coverage" NAME="sss Coverage Results" MODIFIED="1588867889820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex4$pytest_in_test_py.coverage" NAME="pytest in test.py Coverage Results" MODIFIED="1588758288439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

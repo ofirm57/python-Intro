@@ -1,0 +1,140 @@
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_increase_volume_site_example' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_increase_volume_site_example	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_increase_volume_integer_only' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_increase_volume_integer_only	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_increase_volume_empty_list' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_increase_volume_empty_list	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_increase_volume_out_of_bounds' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_increase_volume_out_of_bounds	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_decrease_volume_site_exmaple' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_decrease_volume_site_exmaple	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_decrease_volume_empty_list' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_decrease_volume_empty_list	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_speed_up_empty_list' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_speed_up_empty_list	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_speed_up_site_exmaple' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_speed_up_site_exmaple	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_speed_up_even_length' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_speed_up_even_length	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_slow_down_empty_list' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_slow_down_empty_list	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_slow_down_list_of_one' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_slow_down_list_of_one	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_slow_down_site_example' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_slow_down_site_example	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_reverse_empty_list' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_reverse_empty_list	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_reverse_site_example' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_reverse_site_example	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_lowpass_empty_list' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_lowpass_empty_list	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_lowpass_site_example' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_lowpass_site_example	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_lowpass_list_of_one' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_lowpass_list_of_one	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_increase_reverse' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_increase_reverse	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_invalid_actions' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_invalid_actions	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_merge1' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_merge1	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_merge2' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_merge2	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_merge3' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_merge3	testingFailed	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_merge4' failed.
+**********************************************************************
+AttributeError("module 'wave_editor' has no attribute 'full_main'")
+result_code	wave_editor_merge4	testingFailed	1
+0 passed tests out of 23 in test set named 'wave_editor'.
+result_code	wave_editor	0	1

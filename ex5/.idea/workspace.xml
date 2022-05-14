@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92523087-7bbc-4bb6-b07b-21d57752f3a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfW816q9EDrbxvT79fnISKoViC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in test_wordsearch.py">
+    <configuration name="tryyy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryyy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordsearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordsearch.py" />
+      <option name="PARAMETERS" value="k.txt mat2.txt kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk.txt w" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wordsearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/‏‏תיקיה חדשה" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/‏‏תיקיה חדשה/wordsearch.py" />
+      <option name="PARAMETERS" value="word_list.txt mat.txt try.txt udrz" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_wordsearch.test_find_words_in_matrix_wide" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ex5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_wordsearch.test_find_words_in_matrix_wide&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_wordsearch.test_main_wide" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ex5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_wordsearch.test_main_wide&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_wordsearch.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ex5" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_wordsearch.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.wordsearch" />
+      <item itemvalue="Python.tryyy" />
+      <item itemvalue="Python tests.pytest in test_wordsearch.py" />
+      <item itemvalue="Python tests.pytest for test_wordsearch.test_main_wide" />
+      <item itemvalue="Python tests.pytest for test_wordsearch.test_find_words_in_matrix_wide" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in test_wordsearch.py" />
+        <item itemvalue="Python.wordsearch" />
+        <item itemvalue="Python tests.pytest for test_wordsearch.test_find_words_in_matrix_wide" />
+        <item itemvalue="Python.tryyy" />
+        <item itemvalue="Python tests.pytest for test_wordsearch.test_main_wide" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92523087-7bbc-4bb6-b07b-21d57752f3a1" name="Default Changelist" comment="" />
+      <created>1589023464896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589023464896</updated>
+      <workItem from="1589023469201" duration="473000" />
+      <workItem from="1589023971329" duration="8753000" />
+      <workItem from="1589032943133" duration="28672000" />
+      <workItem from="1589067181144" duration="11526000" />
+      <workItem from="1589106064412" duration="57535000" />
+      <workItem from="1589207009900" duration="18000" />
+      <workItem from="1589207037499" duration="927000" />
+      <workItem from="1589208765078" duration="283000" />
+      <workItem from="1589209123879" duration="1217000" />
+      <workItem from="1589210379335" duration="137000" />
+      <workItem from="1589210542540" duration="1200000" />
+      <workItem from="1589211775677" duration="86000" />
+      <workItem from="1589211878506" duration="562000" />
+      <workItem from="1589212586282" duration="369000" />
+      <workItem from="1589212973701" duration="1454000" />
+      <workItem from="1589214460737" duration="5803000" />
+      <workItem from="1589220284985" duration="6972000" />
+      <workItem from="1589228438630" duration="4000" />
+      <workItem from="1589228692040" duration="5164000" />
+      <workItem from="1589290951206" duration="815000" />
+      <workItem from="1589365919465" duration="9686000" />
+      <workItem from="1589375639042" duration="13000" />
+      <workItem from="1589375664219" duration="96000" />
+      <workItem from="1589461603660" duration="1251000" />
+      <workItem from="1589491964921" duration="128000" />
+      <workItem from="1589696721684" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="2120" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="57" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589374877987">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="57" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1589374877987" />
+    <state x="619" y="86" key="#xdebugger.evaluate" timestamp="1589035422111">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="619" y="86" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1589035422111" />
+    <state width="383" height="438" key="DebuggerActiveHint" timestamp="1589077202210">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="383" height="438" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1589077202210" />
+    <state x="93" y="83" width="1095" height="495" key="DiffContextDialog" timestamp="1589191312285">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="83" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1589191312285" />
+    <state x="376" y="102" key="EnvironmentVariablesDialog" timestamp="1589024083807">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="376" y="102" key="EnvironmentVariablesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589024083807" />
+    <state x="540" y="163" key="FileChooserDialogImpl" timestamp="1589220388169">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="540" y="163" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589220388169" />
+    <state width="1222" height="514" key="GridCell.Tab.0.bottom" timestamp="1589696749789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="514" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589696749789" />
+    <state width="1222" height="514" key="GridCell.Tab.0.center" timestamp="1589696749789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="514" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589696749789" />
+    <state width="1222" height="514" key="GridCell.Tab.0.left" timestamp="1589696749789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="514" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589696749789" />
+    <state width="1222" height="514" key="GridCell.Tab.0.right" timestamp="1589696749789">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="514" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589696749789" />
+    <state width="1237" height="16" key="GridCell.Tab.1.bottom" timestamp="1589375624510">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589375624510" />
+    <state width="1237" height="16" key="GridCell.Tab.1.center" timestamp="1589375624510">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589375624510" />
+    <state width="1237" height="16" key="GridCell.Tab.1.left" timestamp="1589375624510">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589375624510" />
+    <state width="1237" height="16" key="GridCell.Tab.1.right" timestamp="1589375624510">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="16" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589375624510" />
+    <state x="238" y="0" key="SettingsEditor" timestamp="1589696740371">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="238" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589696740371" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1589122541217">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1589122541217" />
+    <state x="175" y="45" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1589034075948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="175" y="45" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1280.680@0.0.1280.680" timestamp="1589034075948" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1589696722990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589696722990" />
+    <state x="196" y="76" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589041995685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="196" y="76" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1589041995685" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1589196511549">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1589196511549" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_wordsearch.py</url>
+          <line>237</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_wordsearch.py</url>
+          <line>236</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ex5$pytest_for_tryess_test_sum_1.coverage" NAME="pytest for tryess.test_sum_1 Coverage Results" MODIFIED="1589024451356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../untitled" />
+    <SUITE FILE_PATH="coverage/ex5$pytest_in_test_wordsearch_py.coverage" NAME="pytest in test_wordsearch.py Coverage Results" MODIFIED="1589696743536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex5$tryyy.coverage" NAME="tryyy Coverage Results" MODIFIED="1589226657127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex5$pytest_for_test_wordsearch_test_main_wide.coverage" NAME="pytest for test_wordsearch.test_main_wide Coverage Results" MODIFIED="1589217325466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex5$pytest_in_test_wordsearch__1__py__1_.coverage" NAME="pytest in test_wordsearch (1).py (1) Coverage Results" MODIFIED="1589211990162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex5$pytest_in_test_wordsearch__1__py.coverage" NAME="pytest in test_wordsearch (1).py Coverage Results" MODIFIED="1589212250069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/‏‏תיקיה חדשה" />
+    <SUITE FILE_PATH="coverage/ex5$wordsearch.coverage" NAME="wordsearch Coverage Results" MODIFIED="1589375443629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex5$wordsearch__1_.coverage" NAME="wordsearch Coverage Results" MODIFIED="1589210318553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/‏‏תיקיה חדשה" />
+    <SUITE FILE_PATH="coverage/ex5$hyhhf.coverage" NAME="hyhhf Coverage Results" MODIFIED="1589024043675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../exxxx" />
+    <SUITE FILE_PATH="coverage/ex5$pytest_for_test_wordsearch_test_find_words_in_matrix_wide.coverage" NAME="pytest for test_wordsearch.test_find_words_in_matrix_wide Coverage Results" MODIFIED="1589370905132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex5$_aaawordsearch.coverage" NAME="_aaawordsearch Coverage Results" MODIFIED="1589042039611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/OneDrive/שולחן העבודה/ex5 של עינת" />
+    <SUITE FILE_PATH="coverage/ex5$pytest_for_test_wordsearch_test_write_output_file.coverage" NAME="pytest for test_wordsearch.test_write_output_file Coverage Results" MODIFIED="1589212320979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/‏‏תיקיה חדשה" />
+    <SUITE FILE_PATH="coverage/ex5$pytest_for_tryess_test_sum_3.coverage" NAME="pytest for tryess.test_sum_3 Coverage Results" MODIFIED="1589025189418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../untitled" />
+    <SUITE FILE_PATH="coverage/ex5$try.coverage" NAME="try Coverage Results" MODIFIED="1589141100232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../untitled/.pytest_cache" />
+  </component>
+</project>

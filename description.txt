@@ -1,0 +1,73 @@
+==================
+=  Description:  =
+==================
+Program that edit or composoe wave files.
+
+def main_menu
+Tha main menu of the program. Print to the user 3 options for editing, composing or exit and get num input from 
+user, than call onother functions.
+
+def print_and_choice
+Print main menu descriptions and return input choice from user.
+
+def change_wav_menu
+get input name from user. the name of the wave file the user want to edit. Check it, and return the change
+options menu if the name of the file exist.
+
+def change_wav_options
+Get list of the wave's sound data (sample rate and list of channels sounds) and print the change options menu.
+After te user choose the input, the function check it and return def_find_the_right_change_path or save menu 
+if the user chose 8.
+
+def find_the_right_change_path
+Get sound list (the list of the chanells) and num input from user's choise and return the function depend on input.
+
+def reverse_wav
+Get list of lists and return reversed list
+
+def negative_wav
+Get list of lists and return negative list
+
+def speed_up_wav
+Get list of lists and return speed up list
+
+def slow_down_wav
+Get list of lists and return slow down list
+
+def turn_up_wav
+Get list of lists and return list that turn up the volume
+
+def turn_down_wav
+Get list of lists and return list that turn down the volume
+
+def fade_filter
+Get list of lists and return fade effect list
+
+def comp_menu
+Get file name input from user, ceck it, open it and turn it to list of sound data. Finally return the list
+
+def open_composing_file
+Get File name and return list of the strings in the file
+
+def check_composing_file
+Get the list of the strings in the file and check if this list can be read to sound data list (sample rate and 
+chanells lists). If the list dont fit to the right structure, the func return Wrong Input
+ else, it return tupples list of (sample per cycle, num of the time)
+
+def find_freq_by_chord
+Get Chord string, check it and return the frequency of the chord or wrong input for wrong chord.
+
+def find_sample_for_cycle
+Get Chord frequency and return DEF_SAMPLE_RATE (=2000) / chord frequency
+
+def build_compose_list
+Get List of tupples, chek it and return list of the sound data.
+
+def composing_per_chord
+Get sample for cycle, num per sixteen and return list of two varients after arithmethics changes.
+
+def save_menu
+Get Sumple rate and sound data list and ask for file name to save input and return the file name.
+
+ 
+ 

@@ -1,0 +1,8 @@
+toe,1
+poeT,1
+apple,1
+PoP,2
+dog,1
+CAT,1
+cAt,1
+long,1

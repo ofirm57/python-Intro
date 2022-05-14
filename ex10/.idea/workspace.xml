@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1a7315c-7923-4557-a3b7-5006864aaba9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ProjectId" id="1dJnTJqEB0OX9KAB5KxoCSR2hK6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.asteroids_main">
+    <configuration name="asteroids_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asteroids_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ex10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/OneDrive/שולחן העבודה/עינת/ex11" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/OneDrive/שולחן העבודה/עינת/ex11/ex11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.asteroids_main" />
+        <item itemvalue="Python.ex11" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1a7315c-7923-4557-a3b7-5006864aaba9" name="Default Changelist" comment="" />
+      <created>1592152133588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592152133588</updated>
+      <workItem from="1592152138576" duration="6005000" />
+      <workItem from="1592158263143" duration="4101000" />
+      <workItem from="1592199004506" duration="6030000" />
+      <workItem from="1592217304106" duration="9156000" />
+      <workItem from="1592226493889" duration="118000" />
+      <workItem from="1592226622249" duration="4381000" />
+      <workItem from="1592232153015" duration="10730000" />
+      <workItem from="1592258881924" duration="5035000" />
+      <workItem from="1592298026377" duration="2315000" />
+      <workItem from="1592300674540" duration="644000" />
+      <workItem from="1592302607030" duration="24000" />
+      <workItem from="1592317595704" duration="3434000" />
+      <workItem from="1592335568344" duration="322000" />
+      <workItem from="1592335908250" duration="2114000" />
+      <workItem from="1592397780499" duration="2869000" />
+      <workItem from="1592404524852" duration="299000" />
+      <workItem from="1592412859857" duration="674000" />
+      <workItem from="1592415389771" duration="19000" />
+      <workItem from="1592482325010" duration="28000" />
+      <workItem from="1592908075468" duration="1846000" />
+      <workItem from="1592915617812" duration="1188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="172" key="GridCell.Tab.0.bottom" timestamp="1592910338447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592910338447" />
+    <state width="1237" height="172" key="GridCell.Tab.0.center" timestamp="1592910338447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="172" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592910338447" />
+    <state width="1237" height="172" key="GridCell.Tab.0.left" timestamp="1592910338446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="172" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592910338446" />
+    <state width="1237" height="172" key="GridCell.Tab.0.right" timestamp="1592910338447">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="172" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592910338447" />
+    <state width="618" height="381" key="GridCell.Tab.1.bottom" timestamp="1592322608793">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="381" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592322608793" />
+    <state width="618" height="381" key="GridCell.Tab.1.center" timestamp="1592322608792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="381" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1592322608792" />
+    <state width="618" height="381" key="GridCell.Tab.1.left" timestamp="1592322608792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="381" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1592322608792" />
+    <state width="618" height="381" key="GridCell.Tab.1.right" timestamp="1592322608792">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="381" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1592322608792" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1592917135105">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1592917135105" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592261845819">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1592261845819" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ex10$asteroids_main.coverage" NAME="asteroids_main Coverage Results" MODIFIED="1592908451211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ex10$ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1592397972157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/OneDrive/שולחן העבודה/עינת/ex11" />
+  </component>
+</project>

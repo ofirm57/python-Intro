@@ -1,0 +1,29 @@
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_lowpass_empty_list' failed.
+**********************************************************************
+IndexError('list index out of range')
+result_code	wave_editor_lowpass_empty_list	testingFailed	1
+--> BEGIN TEST INFORMATION
+Test name: wave_editor_lowpass_site_example
+Module tested: wave_editor
+Function call: full_main()
+Provided input: '1\no.wav\n6\n1\nf.wav\n4\n'
+Expected return value: [2200, [[4, 4], [9, 9], [12, 12], [5, 5], [-1, -1]]]
+--> END TEST INFORMATION
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_lowpass_site_example' failed.
+**********************************************************************
+Wrong result, input: []:
+expected: [2200, [[4, 4], [9, 9], [12, 12], [5, 5], [-1, -1]]]
+actual:   [2200, [[4, 4], [9, -1], [12, 9], [5, 12], [-1, -1]]]
+result_code	wave_editor_lowpass_site_example	wrong	1
+**********************************************************************
+********************     There is a problem:
+********************     The test named 'wave_editor_lowpass_list_of_one' failed.
+**********************************************************************
+IndexError('list index out of range')
+result_code	wave_editor_lowpass_list_of_one	testingFailed	1
+[35;1;7m20 passed tests out of 23 in test set named 'wave_editor'.[0m
+result_code	wave_editor	20	1
